@@ -1,4 +1,3 @@
-<img width="962" height="750" alt="Captura de pantalla 2026-04-10 140217" src="https://github.com/user-attachments/assets/7e0a10d8-9a2c-4474-b78c-737c8dc7bfdc" />
 # Pràctica Tema-4---Installació i Configuració de Moodle
 Els objectius d'aquesta pràctica són:
 1. Instal·lar i configurar gestors de continguts, concretament Moodle.
@@ -9,7 +8,7 @@ Dins del Moodle, haurem de donar-li clic al perfil
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-09%20141954.png)
 
 Seguidament li donarem a "Editar perfil"
-![](<img width="962" height="750" alt="Captura de pantalla 2026-04-10 140217" src="https://github.com/user-attachments/assets/673785d9-27b4-4e49-ad97-6cdaa05c6795" />)
+![]()
 
 
 Podrás canviar el que vulguis. En el meu cas he canviat la imatge d'usuari aqui:
