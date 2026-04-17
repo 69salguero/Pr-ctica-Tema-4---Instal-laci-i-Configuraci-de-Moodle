@@ -25,7 +25,10 @@ Per canviar de franja horaria, haurem de baixar fins encontrar el apartat de "Ub
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/5.png)
 
 Una vegada dins canviarem tot a "Madrid-España"
-![](
 
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/6.png)
+
+
+![]()
 
 
