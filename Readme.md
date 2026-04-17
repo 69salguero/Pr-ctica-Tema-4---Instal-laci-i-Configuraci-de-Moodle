@@ -22,7 +22,6 @@ Per configurar el lloc haurem de anar a la pàgina principal i clicar a "Adminis
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/4.png)
 
-### 2.2. Configuració del lloc
 
 Per canviar de franja horaria, haurem de baixar fins encontrar el apartat de "Ubicación" el qual li donarem a "Ajustes".
 
