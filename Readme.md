@@ -34,7 +34,8 @@ Una vegada dins canviarem tot a "Madrid-España"
 Seguidament haurem de canviar el idioma del lloc, el qual haurem de baixar fins encontrar-ho.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/7.png)
 
-Una vegada dins dels paràmetres de l'idioma
+Una vegada dins dels paràmetres de l'idioma, canviarem tot a l'Espanyol.
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/8.png)
 
 
 
