@@ -8,6 +8,7 @@ Dins del Moodle, haurem de donar-li clic al perfil
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/1.png)
 
 Seguidament li donarem a "Editar perfil"
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/2.png)
 
 
