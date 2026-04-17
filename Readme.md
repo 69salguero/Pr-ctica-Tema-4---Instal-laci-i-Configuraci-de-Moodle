@@ -5,7 +5,7 @@ Els objectius d'aquesta pràctica són:
 3. Entendre les possibilitats d'un LMS (Learning Management System) i aplicar-les en un entorn educatiu.
 ## 1.Configuració inicial de Moodle
 Dins del Moodle, haurem de donar-li clic al perfil
-![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-09%20141954.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/1.png)
 
 Seguidament li donarem a "Editar perfil"
 ![]()
