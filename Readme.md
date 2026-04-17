@@ -38,14 +38,14 @@ Una vegada dins dels paràmetres de l'idioma, canviarem tot a l'Espanyol.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/8.png)
 
 
-
 I per últim, per canviar la seguretat haurem de baixar fins encontrar "Seguridad" y entrar en "Políticas de seguridad del sitio"
 
-![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115505.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/9.png)
 
-Por ultimo tendremos que cambiar el minimo de digitios para escribir y asi poder hacer una contraseña robusta
+Una vegada dins haurem de canviar el mínim de dígits per escriure y aixó poder fer una contrasenya forta.
 
-![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115832.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/9.png)
+
 
 ## Creació de cursos
 ### Curso A
