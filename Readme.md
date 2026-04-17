@@ -4,6 +4,7 @@ Els objectius d'aquesta pràctica són:
 2. Aprendre a utilitzar Moodle com a administrador per gestionar cursos, usuaris, continguts i qualificacions.
 3. Entendre les possibilitats d'un LMS (Learning Management System) i aplicar-les en un entorn educatiu.
 ## 1.Configuració inicial de Moodle
+### 1.1. Administració del perfil d'usuari
 Dins del Moodle, haurem de donar-li clic al perfil
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/1.png)
 
@@ -15,10 +16,13 @@ Seguidament li donarem a "Editar perfil"
 Podrás canviar el que vulguis. En el meu cas he canviat la imatge d'usuari aqui:
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/3.png)
 
-## 2.Configuració del lloc
+### 1.2. Configuració del lloc
+
 Per configurar el lloc haurem de anar a la pàgina principal i clicar a "Administración del sitio", que está a dalt.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/4.png)
+
+### 2.2. Configuració del lloc
 
 Per canviar de franja horaria, haurem de baixar fins encontrar el apartat de "Ubicación" el qual li donarem a "Ajustes".
 
