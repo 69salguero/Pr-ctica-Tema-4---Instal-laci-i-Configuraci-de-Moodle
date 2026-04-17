@@ -13,7 +13,7 @@ Seguidament li donarem a "Editar perfil"
 
 
 Podrás canviar el que vulguis. En el meu cas he canviat la imatge d'usuari aqui:
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/3.png)
 
 ## 2.Configuració del lloc
 Per configurar el lloc haurem de anar a la pàgina principal i clicar a "Administración del sitio", que está a dalt.
