@@ -31,7 +31,7 @@ Una vegada dins canviarem tot a "Madrid-España"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/6.png)
 
-
-![]()
+Seguidament haurem de canviar el idioma del lloc
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/7.png)
 
 
