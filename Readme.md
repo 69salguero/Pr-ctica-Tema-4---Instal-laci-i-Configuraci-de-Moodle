@@ -35,3 +35,42 @@ Seguidament haurem de canviar el idioma del lloc
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/7.png)
 
 
+
+I per últim, per canviar la seguretat haurem de baixar fins encontrar "Seguridad" y entrar en "Políticas de seguridad del sitio"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115505.png)
+
+Por ultimo tendremos que cambiar el minimo de digitios para escribir y asi poder hacer una contraseña robusta
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115832.png)
+
+## Creació de cursos
+### Curso A
+En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
+
+Seguidamente nos vamos a la seccion cursos que esta en la parte de arriba
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120555.png)
+
+Despues tendremos que entrar en "Administra cursos y categorias"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120604.png)
+
+Ya dentro tendremos que entrar a "Crear nuevo curso", en mi caso he puesto algo rapido para explicarlo
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120520.png)
+
+Para crear los temas nos tendremos que ir a la seccion "Mis cursos"
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20121507.png)
+
+Luego dentro podremos ponerle nombre a los temas entrando en el modo edicio 
+
+![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20121702.png)
+
+### Curso B
+He hecho lo mismo solo que he creado 5 temas
+
+
