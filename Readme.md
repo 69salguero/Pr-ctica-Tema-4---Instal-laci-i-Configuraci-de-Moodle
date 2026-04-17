@@ -47,8 +47,8 @@ Una vegada dins haurem de canviar el mínim de dígits per escriure y aixó pode
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/9.png)
 
 
-## Creació de cursos
-### Curso A
+## 2. Creació de cursos
+### Curs A
 En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
@@ -73,7 +73,7 @@ Luego dentro podremos ponerle nombre a los temas entrando en el modo edicio
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20121702.png)
 
-### Curso B
+### Curs B
 He hecho lo mismo solo que he creado 5 temas
 
 
