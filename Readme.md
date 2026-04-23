@@ -68,7 +68,7 @@ Para crear los temas nos tendremos que ir a la seccion "Mis cursos"
 
 Luego dentro podremos ponerle nombre a los temas entrando en el modo edicio 
 
-![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20121702.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/14.png))
 
 ### Curs B
 He hecho lo mismo solo que he creado 5 temas
