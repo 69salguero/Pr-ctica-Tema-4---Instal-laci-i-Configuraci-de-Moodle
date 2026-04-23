@@ -71,6 +71,6 @@ Luego dentro podremos ponerle nombre a los temas entrando en el modo edicio
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/14.png))
 
 ### Curs B
-He hecho lo mismo solo que he creado 5 temas
+He hecho lo mismo solo que he creado 5 temas.
 
 
