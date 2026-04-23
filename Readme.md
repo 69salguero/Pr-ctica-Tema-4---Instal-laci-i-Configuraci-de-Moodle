@@ -92,11 +92,20 @@ Una vez hecho, guardaremos el bloc de notas y iremos de nuevo a la sección de u
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/18.png)
 
 Una vez dentro subiremos el bloc de notas que hemos creado.
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/19.png)
 
 Y quedaria una cosa asi:
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/20.png)
 
 Para eliminar usuarios mediante "Acciones con usuario en bloque", deberemos ir de nuevo a la sección de usuarios y darle clic a "Acciones usuarios masivas" en cuentas. Una vez dentro borraremo dos alumnos cualquieras.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/21.png)
+
+## 4. Matriculación de usuarios a los cursos
+### 4.1 Configuración de métodos de inscripción
+![](
+![](
+![](
+### 4.2 Verificación
