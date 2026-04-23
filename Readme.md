@@ -54,19 +54,12 @@ Una vez dentro tendremos que cambiar el mínimo de dígitos para escribir y pode
 ## 2. Creación de cursos
 ### Curso A
 
-En primer lugar deberemos fijarnostendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
-
-![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
-
-Seguidamente nos vamos a la seccion cursos que esta en la parte de arriba
+En primer lugar deberemos fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio". Seguidamente nos vamos a la seccion cursos que esta en la parte de arriba
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/11.png)
 
-Despues tendremos que entrar en "Administra cursos y categorias"
 
-![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120604.png)
-
-Ya dentro tendremos que entrar a "Crear nuevo curso", en mi caso he puesto algo rapido para explicarlo
+Ya dentro tendremos que entrar a "Crear nuevo curso",y poner el titulo que deseas poner.
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120520.png)
 
