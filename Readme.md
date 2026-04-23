@@ -84,8 +84,19 @@ Una vez dentro pondras el nombre que quieras, en mi caso he puesto "Bob" y a par
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/16.png)
 
 ### 3.2 Creación masiva de alumnos
+Para generar 10 alumnos utilizando un archivo CSV, abriremos un bloc de notas y pondremos nombre del alumno, contraseña y su correo.
+![](
+
+Una vez hecho, guardaremos el bloc de notas y iremos de nuevo a la sección de usuarios y le daremos clic a "Subir usuarios"
 
 ![](
+
+Una vez dentro subiremos el bloc de notas que hemos creado.
 ![](
+
+Y quedaria una cosa asi:
 ![](
+
+Para eliminar usuarios mediante "Acciones con usuario en bloque", deberemos ir de nuevo a la sección de usuarios y darle clic a "Acciones usuarios masivas" en cuentas. Una vez dentro borraremo dos alumnos cualquieras.
+
 ![](
