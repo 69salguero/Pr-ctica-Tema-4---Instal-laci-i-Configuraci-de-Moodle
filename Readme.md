@@ -95,7 +95,7 @@ Una vez dentro subiremos el bloc de notas que hemos creado.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/19.png)
 
 Y quedaria una cosa asi:
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/20.png)
 
 Para eliminar usuarios mediante "Acciones con usuario en bloque", deberemos ir de nuevo a la sección de usuarios y darle clic a "Acciones usuarios masivas" en cuentas. Una vez dentro borraremo dos alumnos cualquieras.
 
