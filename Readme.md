@@ -99,4 +99,4 @@ Y quedaria una cosa asi:
 
 Para eliminar usuarios mediante "Acciones con usuario en bloque", deberemos ir de nuevo a la sección de usuarios y darle clic a "Acciones usuarios masivas" en cuentas. Una vez dentro borraremo dos alumnos cualquieras.
 
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/21.png)
