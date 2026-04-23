@@ -1,61 +1,66 @@
-# Pràctica Tema-4---Installació i Configuració de Moodle
-Els objectius d'aquesta pràctica són:
-1. Instal·lar i configurar gestors de continguts, concretament Moodle.
-2. Aprendre a utilitzar Moodle com a administrador per gestionar cursos, usuaris, continguts i qualificacions.
-3. Entendre les possibilitats d'un LMS (Learning Management System) i aplicar-les en un entorn educatiu.
-## 1.Configuració inicial de Moodle
-### 1.1. Administració del perfil d'usuari
-Dins del Moodle, haurem de donar-li clic al perfil
+# Práctica Tema-4---Instalación y Configuración de Moodle
+
+Los objetivos de esta práctica son:
+
+1. Instalar y configurar gestores de contenidos, concretamente Moodle.
+2. Aprender a utilizar Moodle como administrador para gestionar cursos, usuarios, contenidos y calificaciones.
+3. Entender las posibilidades de un LMS (Learning Management System) y aplicarlas en un entorno educativo.
+
+## 1.Configuración inicial de Moodle
+### 1.1. Administración del perfil de usuario
+Dentro del Moodle, deberemos darle clic en el perfil
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/1.png)
 
-Seguidament li donarem a "Editar perfil"
+Seguidamente le daremos a "Editar perfil"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/2.png)
 
 
-Podrás canviar el que vulguis. En el meu cas he canviat la imatge d'usuari aqui:
+Podrás cambiar lo que quieras. En mi caso he cambiado la imagen de usuario aquí:
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/3.png)
 
-### 1.2. Configuració del lloc
+### 1.2. Configuración del sitio
 
-Per configurar el lloc haurem de anar a la pàgina principal i clicar a "Administración del sitio", que está a dalt.
+Para configurar el sitio deberemos ir a la página principal y clicar en "Administración del sitio", que está arriba.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/4.png)
 
 
-Per canviar de franja horaria, haurem de baixar fins encontrar el apartat de "Ubicación" el qual li donarem a "Ajustes".
+Para cambiar de franja horaria, deberemos bajar hasta encontrar el apartado de "Ubicación" el cual le daremos a "Ajustes".
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/5.png)
 
-Una vegada dins canviarem tot a "Madrid-España"
+Una vez dentro cambiaremos todo en "Madrid-España"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/6.png)
 
-Seguidament haurem de canviar el idioma del lloc, el qual haurem de baixar fins encontrar-ho.
+Seguidamente deberemos cambiar el idioma del sitio, el cual deberemos bajar hasta encontrarlo.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/7.png)
 
-Una vegada dins dels paràmetres de l'idioma, canviarem tot a l'Espanyol.
+Una vez dentro de los parámetros del idioma, cambiaremos todo en el Espanyol.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/8.png)
 
 
-I per últim, per canviar la seguretat haurem de baixar fins encontrar "Seguridad" y entrar en "Políticas de seguridad del sitio"
+Y por último, para cambiar la seguridad deberemos bajar hasta encontrar "Seguridad" y entrar en "Políticas de seguridad del sitio"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/9.png)
 
-Una vegada dins haurem de canviar el mínim de dígits per escriure y aixó poder fer una contrasenya forta.
+Una vez dentro tendremos que cambiar el mínimo de dígitos para escribir y poder hacer una contraseña fuerte.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/9.png)
 
 
-## 2. Creació de cursos
-### Curs A
-En primer lugar tendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
+## 2. Creación de cursos
+### Curso A
+
+En primer lugar deberemos fijarnostendremos que fijarnos arriba  en la parte izquierda y entrar en "Administracion del sitio"
 
 ![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115445.png)
 
 Seguidamente nos vamos a la seccion cursos que esta en la parte de arriba
 
-![](https://github.com/fernandoAM06/Pr-ctica-Tema-4-Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20120555.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/11.png)
 
 Despues tendremos que entrar en "Administra cursos y categorias"
 
