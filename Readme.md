@@ -75,7 +75,10 @@ He hecho lo mismo solo que he creado 5 temas.
 
 ## 3. Creación y gestión de usuario
 ### 3.1 Creación manual de usuario
-![](
+Para crear el usuario nos deberemos de ir a "Administración del sitio", seguidamente le daremos a la sección de usuarios y por último le daremos a "Crear usuario"
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/15.png)
+Una vez dentro pondras el nombre que quieras, en mi caso he puesto "Bob" y a parte te inventarás el correo.
+
 ![](
 ### 3.2 Creación masiva de alumnos
 
