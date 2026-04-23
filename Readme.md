@@ -92,7 +92,7 @@ Una vez hecho, guardaremos el bloc de notas y iremos de nuevo a la sección de u
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/18.png)
 
 Una vez dentro subiremos el bloc de notas que hemos creado.
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/19.png)
 
 Y quedaria una cosa asi:
 ![](
