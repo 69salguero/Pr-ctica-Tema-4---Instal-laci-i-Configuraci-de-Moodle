@@ -105,7 +105,7 @@ Para eliminar usuarios mediante "Acciones con usuario en bloque", deberemos ir d
 
 ## 4. Matriculación de usuarios a los cursos
 ### 4.1 Configuración de métodos de inscripción
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/22.png)
 ![](
 ![](
 ### 4.2 Verificación
