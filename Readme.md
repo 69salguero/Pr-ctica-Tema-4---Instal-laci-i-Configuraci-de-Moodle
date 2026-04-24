@@ -146,4 +146,16 @@ Una vez dentro seleccionamos el que queramos, en mi caso le he dado a "BOOST"
 ### Logotipo
 Para cambiar el logotipo, deberemos instalar una imagen cualquiera en el navegador de Google y seguidamente iremos de nuevo a la sección de "Aparencia" y le damos a Logotipo. Una vez dentro subimos la foto y la guardamos.
 
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/32.png)
+
+## 6. Creación de contenidos y actividades
+### Curso A
+![](
+![](
+![](
+![](
+
+### Curso B
+![](
+![](
 ![](
