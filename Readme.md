@@ -124,3 +124,26 @@ Para configurarlo he hecho lo mismo que en el "A", pero en este curso le he dado
 
 ### 4.2 Verificación
 He cerrado sesión y en el curso A y B esta todo correctamente, ya que en el A se tiene libre visión y en el B te pide constantemente iniciar sesión.
+
+## 5. Personalización del sitio
+### Cambio de aspecto
+Para cambiar el aspecto nos iremos a "Administración del sitio" de nuevo y en la sección de extenxiones le damos click a "Instalar complementos"
+
+![](
+
+Una vez dentro instalaremos complementos cualquieras y lo subiremos en "Archivo ZIP". Una vez puesta le daremos a guardar y a aceptar todo.
+
+![](
+
+Para cambiar el tema, nos iremos a "Administración del sitio" de nuevo y en la sección de apariencias clicamos "Temas"
+
+![](
+
+Una vez dentro seleccionamos el que queramos, en mi caso le he dado a "BOOST"
+
+![](
+
+### Logotipo
+Para cambiar el logotipo, deberemos instalar una imagen cualquiera en el navegador de Google y seguidamente iremos de nuevo a la sección de "Aparencia" y le damos a Logotipo. Una vez dentro subimos la foto y la guardamos.
+
+![](
