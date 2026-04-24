@@ -129,7 +129,7 @@ He cerrado sesión y en el curso A y B esta todo correctamente, ya que en el A s
 ### Cambio de aspecto
 Para cambiar el aspecto nos iremos a "Administración del sitio" de nuevo y en la sección de extenxiones le damos click a "Instalar complementos"
 
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/26.png)
 
 Una vez dentro instalaremos complementos cualquieras y lo subiremos en "Archivo ZIP". Una vez puesta le daremos a guardar y a aceptar todo.
 
