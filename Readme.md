@@ -141,7 +141,7 @@ Para cambiar el tema, nos iremos a "Administración del sitio" de nuevo y en la 
 
 Una vez dentro seleccionamos el que queramos, en mi caso le he dado a "BOOST"
 
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/31.png)
 
 ### Logotipo
 Para cambiar el logotipo, deberemos instalar una imagen cualquiera en el navegador de Google y seguidamente iremos de nuevo a la sección de "Aparencia" y le damos a Logotipo. Una vez dentro subimos la foto y la guardamos.
