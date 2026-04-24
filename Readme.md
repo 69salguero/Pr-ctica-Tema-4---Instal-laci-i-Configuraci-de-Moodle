@@ -133,7 +133,7 @@ Para cambiar el aspecto nos iremos a "Administración del sitio" de nuevo y en l
 
 Una vez dentro instalaremos complementos cualquieras y lo subiremos en "Archivo ZIP". Una vez puesta le daremos a guardar y a aceptar todo.
 
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/27.png)
 
 Para cambiar el tema, nos iremos a "Administración del sitio" de nuevo y en la sección de apariencias clicamos "Temas"
 
