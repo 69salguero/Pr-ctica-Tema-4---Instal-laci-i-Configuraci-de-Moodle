@@ -105,7 +105,22 @@ Para eliminar usuarios mediante "Acciones con usuario en bloque", deberemos ir d
 
 ## 4. Matriculación de usuarios a los cursos
 ### 4.1 Configuración de métodos de inscripción
+
+**Curso A**
+Para configurar los métodos he tenido que entrar a los cursos, una vez dentro nos vamos a la sección de "Paricipantes" y seguidamente le damos clic a "Métodos de matriculación"
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/22.png)
+
+Dentro, configuraremos lo que necesitamos, en mi caso he habilitado lo que debia.
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/23.png)
+
+**Curso B**
+Para configurarlo he hecho lo mismo que en el "A", pero en este curso le he dado a "Matricular usuarios" y he seleccionado como a BOB de profesor y lo restante de estudiantes
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/24.png)
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/25.png)
+
 ### 4.2 Verificación
+He cerrado sesión y en el curso A y B esta todo correctamente, ya que en el A se tiene libre visión y en el B te pide constantemente iniciar sesión.
