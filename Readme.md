@@ -137,7 +137,7 @@ Una vez dentro instalaremos complementos cualquieras y lo subiremos en "Archivo 
 
 Para cambiar el tema, nos iremos a "Administración del sitio" de nuevo y en la sección de apariencias clicamos "Temas"
 
-![](
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/30.png)
 
 Una vez dentro seleccionamos el que queramos, en mi caso le he dado a "BOOST"
 
