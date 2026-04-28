@@ -169,7 +169,7 @@ Seguidamente, seleccionaremos el curso el cual queramos clonar (en mi caso el cu
 
 ## 7. Cualificaciones y insignias
 ### Cualificaciones
-![](
+![](s
 ![](
 ### Insignias
 
