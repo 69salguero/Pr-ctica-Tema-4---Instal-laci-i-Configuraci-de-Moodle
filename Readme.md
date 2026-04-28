@@ -174,9 +174,13 @@ Seguidamente, seleccionaremos el curso el cual queramos clonar (en mi caso el cu
 
 ## 7. Cualificaciones y insignias
 ### 7.1 Cualificaciones
-![](s
-![](
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/37.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/38.png)
 ### 7.2 Insignias
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/39.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/40.png)
 
 
 
