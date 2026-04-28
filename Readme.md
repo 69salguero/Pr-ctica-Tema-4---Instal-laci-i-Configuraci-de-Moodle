@@ -174,13 +174,28 @@ Seguidamente, seleccionaremos el curso el cual queramos clonar (en mi caso el cu
 
 ## 7. Cualificaciones y insignias
 ### 7.1 Cualificaciones
+Primeramente, deberemos iniciar sesión con la cuenta de Moodle de un alumno.
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/41.png)
+
+Seguidamente, nos iremos al curso y deberemos entregar algunas tascas. Después, volveremos a nuestra cuenta nos iremos a la sección de "Calificaciones" y entraremos en "Configuración de calificaciones". 
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/37.png)
+
+Para acabar pondremos una nota de 5 de forma automática en todas las tascas entregadas.
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/38.png)
+
 ### 7.2 Insignias
+Para crear una insignia, deberemos entrar en el Curso, irnos a la sección de "Más" y darle a "Insignias"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/39.png)
+
+Seguidamente, le daremos a "Crear" y la configuraremos a nuestro gusto (en mi caso he puesto una imagen).
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/40.png)
+
+Para acabar 
 
 
 
