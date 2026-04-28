@@ -152,13 +152,28 @@ Para cambiar el logotipo, deberemos instalar una imagen cualquiera en el navegad
 ### Curso A
 Como ya he asignado a un profesor y he matriculado a los alumnos anteriormente, pasaré al siguiente paso.
 
-Para añadir tascas al curso, primeramente deberemos entrar dentro
+Para añadir tascas al curso, primeramente deberemos entrar dentro y seleccionar el tema al cual queramos colgar la tasca.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/33.png)
+
+Una vez dentro, seleccionamos el tipo de tasca que queramos subir, bajaremos hasta la configuración de "Tipos de entrega" y pondremos que solo se puedan colgar archivos en PDF.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/34.png)
-![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/35.png)
-![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/36.png)
+
 
 ### Curso B
+Para clonar el contenido del Curso A al B, deberemos entrar al curso B, darle clic a la sección de "Más" y darle a "Reutilización de Curso".
+[](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/35.png)
+
+Seguidamente, seleccionaremos el curso el cual queramos clonar (en mi caso el curso A) y le daremos a "Continuar"
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/36.png)
+
+## 7. Cualificaciones y insignias
+### Cualificaciones
 ![](
 ![](
-![](
+### Insignias
+
+
+
+
+
