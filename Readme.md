@@ -38,7 +38,8 @@ Una vez dentro cambiaremos todo en "Madrid-España"
 Seguidamente deberemos cambiar el idioma del sitio, el cual deberemos bajar hasta encontrarlo.
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/7.png)
 
-Una vez dentro de los parámetros del idioma, cambiaremos todo en el Espanyol.
+Una vez dentro de los parámetros del idioma, cambiaremos todo en el Español.
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/8.png)
 
 
@@ -63,10 +64,11 @@ Ya dentro tendremos que entrar a "Crear nuevo curso",y poner el titulo que desea
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/12.png)
 
-Para crear los temas nos tendremos que ir a la seccion "Mis cursos" 
+Para crear los temas nos tendremos que ir a la seccion "Mis cursos". 
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/13.png)
 
-Luego dentro podremos ponerle nombre a los temas entrando en el modo edicio 
+Luego dentro podremos ponerle nombre a los temas entrando en el modo edicióm.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/14.png)
 
