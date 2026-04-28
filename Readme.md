@@ -126,7 +126,7 @@ Para configurarlo he hecho lo mismo que en el "A", pero en este curso le he dado
 He cerrado sesión y en el curso A y B esta todo correctamente, ya que en el A se tiene libre visión y en el B te pide constantemente iniciar sesión.
 
 ## 5. Personalización del sitio
-### Cambio de aspecto
+### 5.1 Cambio de aspecto
 Para cambiar el aspecto nos iremos a "Administración del sitio" de nuevo y en la sección de extenxiones le damos click a "Instalar complementos"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/26.png)
@@ -143,13 +143,13 @@ Una vez dentro seleccionamos el que queramos, en mi caso le he dado a "BOOST"
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/31.png)
 
-### Logotipo
+### 5.2 Logotipo
 Para cambiar el logotipo, deberemos instalar una imagen cualquiera en el navegador de Google y seguidamente iremos de nuevo a la sección de "Aparencia" y le damos a Logotipo. Una vez dentro subimos la foto y la guardamos.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/32.png)
 
 ## 6. Creación de contenidos y actividades
-### Curso A
+### 6.1 Curso A
 Como ya he asignado a un profesor y he matriculado a los alumnos anteriormente, pasaré al siguiente paso.
 
 Para añadir tascas al curso, primeramente deberemos entrar dentro y seleccionar el tema al cual queramos colgar la tasca.
@@ -161,7 +161,7 @@ Una vez dentro, seleccionamos el tipo de tasca que queramos subir, bajaremos has
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/34.png)
 
 
-### Curso B
+### 6.2 Curso B
 Para clonar el contenido del Curso A al B, deberemos entrar al curso B, darle clic a la sección de "Más" y darle a "Reutilización de Curso".
 
 [](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/35.png)
@@ -171,10 +171,10 @@ Seguidamente, seleccionaremos el curso el cual queramos clonar (en mi caso el cu
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/36.png)
 
 ## 7. Cualificaciones y insignias
-### Cualificaciones
+### 7.1 Cualificaciones
 ![](s
 ![](
-### Insignias
+### 7.2 Insignias
 
 
 
