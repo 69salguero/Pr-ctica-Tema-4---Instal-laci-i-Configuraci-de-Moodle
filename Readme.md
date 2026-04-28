@@ -150,10 +150,13 @@ Para cambiar el logotipo, deberemos instalar una imagen cualquiera en el navegad
 
 ## 6. Creación de contenidos y actividades
 ### Curso A
-![](
-![](
-![](
-![](
+Como ya he asignado a un profesor y he matriculado a los alumnos anteriormente, pasaré al siguiente paso.
+
+Para añadir tascas al curso, primeramente deberemos entrar dentro
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/33.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/34.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/35.png)
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/36.png)
 
 ### Curso B
 ![](
