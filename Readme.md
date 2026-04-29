@@ -197,8 +197,19 @@ Seguidamente, le daremos a "Crear" y la configuraremos a nuestro gusto (en mi ca
 
 Para acabar 
 
-### 8.Cuestionarios
+## 8.Cuestionarios
+### 8.1 Crear 
 Para crear un cuestionario con preguntas y organizar las preguntas en categorias diferentes deberemos
+
+### 8.2 Responder a través de un alumno
+
+## 9. Importación y exportación de cursos
+### 9.2 Exportar
+
+
+### 9.3 Enviar a un compañero
+
+## 10.Seguridad
 
 
 
