@@ -70,7 +70,7 @@ Para crear los temas nos tendremos que ir a la seccion "Mis cursos".
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/13.png)
 
-Luego dentro podremos ponerle nombre a los temas entrando en el modo edicióm.
+Luego dentro podremos ponerle nombre a los temas entrando en el modo edición.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/14.png)
 
