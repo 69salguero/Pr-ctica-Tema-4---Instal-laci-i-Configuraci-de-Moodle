@@ -18,6 +18,7 @@ Seguidamente le daremos a "Editar perfil"
 
 
 Podrás cambiar lo que quieras. En mi caso he cambiado la imagen de usuario aquí:
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/3.png)
 
 ### 1.2. Configuración del sitio
@@ -36,6 +37,7 @@ Una vez dentro cambiaremos todo en "Madrid-España"
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/6.png)
 
 Seguidamente deberemos cambiar el idioma del sitio, el cual deberemos bajar hasta encontrarlo.
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/7.png)
 
 Una vez dentro de los parámetros del idioma, cambiaremos todo en el Español.
@@ -87,6 +89,7 @@ Una vez dentro pondras el nombre que quieras, en mi caso he puesto "Bob" y a par
 
 ### 3.2 Creación masiva de alumnos
 Para generar 10 alumnos utilizando un archivo CSV, abriremos un bloc de notas y pondremos nombre del alumno, contraseña y su correo.
+
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/17.png)
 
 Una vez hecho, guardaremos el bloc de notas y iremos de nuevo a la sección de usuarios y le daremos clic a "Subir usuarios"
