@@ -1,4 +1,4 @@
-# Práctica Tema4-  Instalación y Configuración de Moodle
+# Práctica Tema 4 - Instalación y Configuración de Moodle
 
 Los objetivos de esta práctica son:
 
