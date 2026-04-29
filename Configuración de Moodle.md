@@ -8,16 +8,16 @@ Los objetivos de esta práctica son:
 
 ## 1.Configuración inicial de Moodle
 ### 1.1. Administración del perfil de usuario
-Dentro del Moodle, deberemos darle clic en el perfil
+Dentro del Moodle, deberemos darle clic en el perfil.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/1.png)
 
-Seguidamente le daremos a "Editar perfil"
+Seguidamente le daremos a "Editar perfil".
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/2.png)
 
 
-Podrás cambiar lo que quieras. En mi caso he cambiado la imagen de usuario aquí:
+Podrás cambiar lo que quieras, en mi caso he cambiado la imagen de usuario.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/3.png)
 
