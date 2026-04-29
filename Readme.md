@@ -197,6 +197,9 @@ Seguidamente, le daremos a "Crear" y la configuraremos a nuestro gusto (en mi ca
 
 Para acabar 
 
+### 8.Cuestionarios
+Para crear un cuestionario con preguntas y organizar las preguntas en categorias diferentes deberemos
+
 
 
 
