@@ -212,6 +212,9 @@ Para crear un cuestionario con preguntas y organizar las preguntas en categorias
 ## 10.Seguridad
 
 
+**Justificació**
+S’ha bloquejat la IP perquè s’han detectat múltiples intents fallits d’accés en poc temps, fet que pot indicar un atac de força bruta o accés no autoritzat. La política aplicada protegeix els comptes dels usuaris i millora la seguretat general de la plataforma.
+
 
 
 
