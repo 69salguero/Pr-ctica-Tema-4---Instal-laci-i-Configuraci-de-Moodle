@@ -217,7 +217,9 @@ Una vez dentro, le daremos clic a "Crear banco de preguntas por defecto".
 Y quedaria asi:
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/46.png)
+
 ### 8.2 Responder a través de un alumno
+Para responder a través de un alumno, cerraremos sesión como profesor y iniciaremos sesión desde la de un alumno.
 
 ## 9. Importación y exportación de cursos
 ### 9.2 Exportar
@@ -225,12 +227,15 @@ Para exportar una copia de seguridad al curso, nos iremos al curso que queramos,
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/47.png)
 
-Seguidamente nos saldrán varias opciones, pero le deberemos de dar a copia de seguridad y esperar unos cuantos minutos
+Seguidamente nos saldrán varias opciones, pero le deberemos de dar a copia de seguridad y esperar mucho tiempo.
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/48.png)
 
 
 ### 9.3 Enviar a un compañero
+Para enviarlo a tu compañero, deberas enviar el archivo descargado (la copia de seguridad) por Gmail u otro.
+
+Para importar el de tu compañero hacia tu Moodle, tu compañero deberá enviartelo. Una vez descargado, te vas a la sección de "Más" en el curso que quieras, le damos clic a "Reutilización del Curso" y por ultimo le daremos a restaurar.
 
 ## 10.Seguridad
 Para banear una ip deberemos ir a "Administración del Curso", y en la sección de "Seguridad" le damos a "Bloqueos de Ip".
