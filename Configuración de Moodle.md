@@ -198,21 +198,44 @@ Seguidamente, le daremos a "Crear" y la configuraremos a nuestro gusto (en mi ca
 
 ![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/40.png)
 
-Para acabar 
+Para acabar, le daremos clic a los 3 puntos y nos saldrá la opción de otorgar la insignia.
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/42.png)
+
+Una vez dentro asignaremos a cual queramos
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/43.png)
 
 ## 8.Cuestionarios
 ### 8.1 Crear 
-Para crear un cuestionario con preguntas y organizar las preguntas en categorias diferentes deberemos
+Para crear un cuestionario en el banco de preguntas, nos iremos a un curso, a la sección de "Más" y le daremos a "Banco de preguntas".
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/44.png)
 
+Una vez dentro, le daremos clic a "Crear banco de preguntas por defecto".
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/45.png)
+
+Y quedaria asi:
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/46.png)
 ### 8.2 Responder a través de un alumno
 
 ## 9. Importación y exportación de cursos
 ### 9.2 Exportar
+Para exportar una copia de seguridad al curso, nos iremos al curso que queramos, a la sección "Más" y le damos clic a "Reutilización de Curso".
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/47.png)
+
+Seguidamente nos saldrán varias opciones, pero le deberemos de dar a copia de seguridad y esperar unos cuantos minutos
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/48.png)
 
 
 ### 9.3 Enviar a un compañero
 
 ## 10.Seguridad
+Para banear una ip deberemos ir a "Administración del Curso", y en la sección de "Seguridad" le damos a "Bloqueos de Ip".
+
+![](https://github.com/69salguero/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/49.png)
 
 
 **Justificación:**
